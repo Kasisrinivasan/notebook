@@ -1,8 +1,7 @@
-  # Azure Kubernetes Commands
-  
-  ### Creating  AKS cluster
-  
-  ```
+# Azure Kubernetes Commands
+
+### Creating  AKS cluster
+```
   az aks create --resource-group rg-aks \
     --name aks-cluster \
     --location eastus \
