@@ -21,3 +21,7 @@ az acr update -n $ACR_NAME --admin-enabled true
 az acr credential show --name $ACR_NAME
 ```
 
+#### Get the ACR login server name 
+```
+az acr list --resource-group myResourceGroup --query "[].{acrLoginServer:loginServer}" --output table
+```
