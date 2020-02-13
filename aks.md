@@ -1,11 +1,11 @@
 # Azure Kubernetes Commands
 
-* Installing AKS 
+#### Installing AKS 
 ```
 az aks install-cli
 ```
 
-* Creating  AKS cluster
+#### Creating  AKS cluster
 ```
   az aks create --resource-group rg-aks \
     --name aks-cluster \
@@ -20,7 +20,7 @@ az aks install-cli
 
 ----
 
-* Viewing the VM SKU's
+#### Viewing the VM SKU's
 
 ```
   az vm list-skus -l eastus --size d2 -o table
@@ -28,14 +28,14 @@ az aks install-cli
 
 ----
 
-* Downloading the credentials
+#### Downloading the credentials
 
 ```
  az aks get-credentials --resource-group rg-aks --name aks-cluster
 ```
 
 ----
-* Retrieving the Public IP addess allocated to Ingress Controller
+#### Retrieving the Public IP addess allocated to Ingress Controller
  
 ```
 kubectl get svc  -n fend    ingress-nginx-ingress-controller -o jsonpath="{.status.loadBalancer.ingress[*].ip}"
