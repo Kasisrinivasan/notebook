@@ -1,4 +1,3 @@
-c
 ### Create Service Principal Subscription level scope
 
 ```
