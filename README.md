@@ -7,5 +7,5 @@
   * [Azure Container Registry](acr.md)
   
   
-  *[Visual Studio Extensions](vs-code-extensions.md)
+  * [Visual Studio Extensions](vs-code-extensions.md)
 
