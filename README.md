@@ -5,4 +5,7 @@
   * [AKS Guides, Best Practices](aks-guide.md)
   * [AKS Commands](aks.md)
   * [Azure Container Registry](acr.md)
+  
+  
+  *[Visual Studio Extensions](vs-code-extensions.md)
 
