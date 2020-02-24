@@ -1,4 +1,10 @@
-* [AKS Concepts](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/concepts-clusters-workloads.md)
+* [AKS Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
+* [AKS Network Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-network)
+* [AKS Security Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-security)
+* [AKS Storage Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-storage)
+* [AKS High availability Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-scale)
+* [AKS Access & Identity Concepts](https://docs.microsoft.com/en-us/azure/aks/concepts-identity)
+
 
 * [Best practices for cluster isolation in Azure Kubernetes Service (AKS)](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-cluster-isolation.md)
 * [Operator Scheduler Best practices](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-scheduler.md)
