@@ -15,3 +15,12 @@
 * [Managing Multiple Pools](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/use-multiple-node-pools.md)
 * [Taints & Tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/)
 * [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#use-case)
+
+-------
+
+* [Security Considerations](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-image-security)
+* [Container Registry Integration with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/azure-container-registry-integration)
+* [AKS Integration with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/azure-kubernetes-service-integration)
+* [AKS and ACR Threat Detection in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-alerts-compute)
+* [Container Security Alerts in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference#alerts-containerhost)
+
