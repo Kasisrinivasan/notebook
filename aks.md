@@ -43,7 +43,7 @@ kubectl get svc  -n fend    ingress-nginx-ingress-controller -o jsonpath="{.stat
 
 ----
 #### Kubernetes dashboard
- 
+-- kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0-beta8/aio/deploy/recommended.yaml
 ```
 kubectl create clusterrolebinding kubernetes-dashboard --clusterrole=cluster-admin --serviceaccount=kube-system:kubernetes-dashboard
 ```
