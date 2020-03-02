@@ -41,5 +41,12 @@ az aks install-cli
 kubectl get svc  -n fend    ingress-nginx-ingress-controller -o jsonpath="{.status.loadBalancer.ingress[*].ip}"
 ```
 
+----
+#### Kubernetes dashboard
+ 
+```
+kubectl create clusterrolebinding kubernetes-dashboard --clusterrole=cluster-admin --serviceaccount=kube-system:kubernetes-dashboard
+```
+
 ## Other References
 [https://github.com/Azure/aks-engine/tree/master/docs/topics](AKS Engine Topics)
