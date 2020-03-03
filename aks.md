@@ -47,6 +47,14 @@ kubectl get svc  -n fend    ingress-nginx-ingress-controller -o jsonpath="{.stat
 ```
 kubectl create clusterrolebinding kubernetes-dashboard --clusterrole=cluster-admin --serviceaccount=kube-system:kubernetes-dashboard
 ```
+Retrieving the secrets
+```
+kubectl -n kubernetes-dashboard get secret
+```
+
+```
+
+```
 
 ## Other References
 [https://github.com/Azure/aks-engine/tree/master/docs/topics](AKS Engine Topics)
