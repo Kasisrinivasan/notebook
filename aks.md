@@ -40,6 +40,11 @@ az aks install-cli
 ```
 kubectl get svc  -n fend    ingress-nginx-ingress-controller -o jsonpath="{.status.loadBalancer.ingress[*].ip}"
 ```
+----
+#### Create a Service object that exposes the deployment
+```
+kubectl expose deployment hello-world --type=LoadBalancer --name=my-service
+```
 
 ----
 #### Kubernetes dashboard
@@ -50,6 +55,7 @@ kubectl create clusterrolebinding kubernetes-dashboard --clusterrole=cluster-adm
 Retrieving the secrets
 ```
 kubectl -n kubernetes-dashboard get secret
+kubectl -n kube-system get services
 ```
 
 ```
