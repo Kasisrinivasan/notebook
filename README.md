@@ -6,6 +6,7 @@
   * [KQL](kql.md)
   
   * [AKS Guides &  Best Practices](aks-guide.md)
+  * [AKS Samples](aks-samples.md)
   * [AKS Commands](aks.md)
   * [Azure Container Registry](acr.md)
   * [Helm](helm.md)
