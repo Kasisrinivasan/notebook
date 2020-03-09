@@ -25,3 +25,7 @@
 * [AKS and ACR Threat Detection in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-alerts-compute)
 * [Container Security Alerts in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference#alerts-containerhost)
 
+-------
+
+* [Stackrox Best practices](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4/)
+
