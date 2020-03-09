@@ -7,7 +7,6 @@
 
 -------
 
-
 * [Best practices for cluster isolation in Azure Kubernetes Service (AKS)](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-cluster-isolation.md)
 * [K8s-best-practices](https://github.com/Azure/k8s-best-practices)
 * [Operator Scheduler Best practices](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-scheduler.md)
@@ -28,4 +27,11 @@
 -------
 
 * [Stackrox Best practices](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4/)
+
+
+-------
+ ### How to's
+ * [Expose External IP Address](https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/)
+
+
 
