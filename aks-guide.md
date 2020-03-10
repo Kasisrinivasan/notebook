@@ -27,7 +27,7 @@
 -------
 
 * [Stackrox Best practices](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4/)
-
+* [Definitive guide to Securing Kubernetes - Microsoft, Aqua](https://clouddamcdnprodep.azureedge.net/gdc/gdc8LXmoZ/original)
 
 -------
  ### How to's
