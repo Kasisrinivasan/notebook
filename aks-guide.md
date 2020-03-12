@@ -32,6 +32,8 @@
 -------
  ### How to's
  * [Expose External IP Address](https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/)
+ * [Kubernetes Dashboard - AKS Engine](https://github.com/Azure/aks-engine/blob/master/docs/topics/monitoring.md#kubernetes-dashboard)
+ * [AKS cluster concepts](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/aks/media/concepts-clusters-workloads)
  
  * [Configure Azure Policies for AKS](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/rego-for-aks?toc=/azure/aks/toc.json)
 
