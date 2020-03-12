@@ -37,6 +37,7 @@
  * [AKS cluster concepts](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/aks/media/concepts-clusters-workloads)
  
  * [Configure Azure Policies for AKS](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/rego-for-aks?toc=/azure/aks/toc.json)
+ * [Enabling Azure Monitoring for AKS](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-enable-existing-clusters#enable-using-an-azure-resource-manager-template) 
 
 
 
