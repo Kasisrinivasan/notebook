@@ -10,9 +10,12 @@
   * [AKS Commands](aks.md)
   * [Azure Container Registry](acr.md)
   * [Helm](helm.md)
+  * [AKS Monitoring](aks-monitoring.md)
  
   * [Data Solutions](data-solutions-guide.md)
   * [ML Guide](ML-guide.md)
   
   * [Visual Studio Extensions](vs-code-extensions.md)
+  
+  * [Azure Certification](azure-cert.md)
 
