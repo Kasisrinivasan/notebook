@@ -26,6 +26,11 @@
 * [Container Security Alerts in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference#alerts-containerhost)
 
 -------
+* [Promotheus Configuration](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-prometheus-integration)
+* [Observability blog post](https://azure.microsoft.com/en-us/blog/improving-observability-of-your-kubernetes-deployments-with-azure-monitor-for-containers/?ocid=AID754288&wt.mc_id=azfr-c9-scottha%2CCFID0507)
+* [Collecting-promotheus Metrics](https://samcogan.com/collecting-prometheus-metrics-with-azure-monitor/)
+
+----------
 
 * [Stackrox Best practices](https://www.stackrox.com/post/2020/02/azure-kubernetes-aks-security-best-practices-part-2-of-4/)
 * [Definitive guide to Securing Kubernetes - Microsoft, Aqua](https://clouddamcdnprodep.azureedge.net/gdc/gdc8LXmoZ/original)
