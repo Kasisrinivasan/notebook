@@ -17,6 +17,7 @@
 * [Taints & Tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/)
 * [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#use-case)
 * [Networking Planning](https://github.com/microsoft/Networking-with-Kubernetes-Azure)
+* [AKS Best practices](https://www.slideshare.net/QAware/best-practices-with-azure-kubernetes-services-123776449) - SlideShare by Microsoft SME
 
 -------
 
