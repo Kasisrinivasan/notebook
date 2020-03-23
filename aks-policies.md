@@ -19,11 +19,10 @@ To view the policies available
 kubectl get psp
 ```
 
-### Viewing and delete Constraints
-
-To retrieve the constraint templates
+### K8 working with Constraints 
 ```
 kubectl get constrainttemplates
+kubectl delete  constrainttemplates 'k8srequiredlabels"
 ```
 
 ```
