@@ -19,3 +19,17 @@ To view the policies available
 kubectl get psp
 ```
 
+### Viewing and delete Constraints
+
+To retrieve the constraint templates
+```
+kubectl get constrainttemplates
+```
+
+```
+kubectl delete -f constraints
+kubectl delete -f templates
+```
+
+
+
