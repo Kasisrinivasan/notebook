@@ -11,6 +11,7 @@
   * [Azure Container Registry](acr.md)
   * [Helm](helm.md)
   * [AKS Monitoring](aks-monitoring.md)
+  * [AKS Policies](aks-policies.md)
  
   * [Data Solutions](data-solutions-guide.md)
   * [ML Guide](ML-guide.md)
