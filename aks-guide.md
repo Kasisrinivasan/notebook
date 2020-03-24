@@ -18,6 +18,7 @@
 * [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#use-case)
 * [Networking Planning](https://github.com/microsoft/Networking-with-Kubernetes-Azure)
 * [AKS Best practices](https://www.slideshare.net/QAware/best-practices-with-azure-kubernetes-services-123776449) - SlideShare by Microsoft SME
+* [Kubernetes Constraints & Templates](https://cloud.google.com/anthos-config-management/docs/how-to/creating-constraints-and-templates) - Anthos but applies to all K8s
 
 -------
 
