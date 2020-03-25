@@ -57,9 +57,9 @@ Retrieving the secrets
 kubectl -n kubernetes-dashboard get secret
 kubectl -n kube-system get services
 ```
-
-```
-
+Opening the dashboard
+```console
+az aks browse -n aks-cf-demo-eus  -g  rg-aks-demo
 ```
 
 ## Other References
