@@ -9,7 +9,7 @@
 -------
 
 * [Best practices for cluster isolation in Azure Kubernetes Service (AKS)](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-cluster-isolation.md)
-* [K8s-best-practices](https://github.com/Azure/k8s-best-practices)
+* **[K8s-best-practices](https://github.com/Azure/k8s-best-practices)**
 * [Operator Scheduler Best practices](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-scheduler.md)
 * [Operator Best Practices Identiy](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-identity.md)
 * [Best practices for advanced scheduler features in AKS](https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/aks/operator-best-practices-advanced-scheduler.md)
@@ -46,6 +46,7 @@
  
  * [Configure Azure Policies for AKS](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/rego-for-aks?toc=/azure/aks/toc.json)
  * [Enabling Azure Monitoring for AKS](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-enable-existing-clusters#enable-using-an-azure-resource-manager-template) 
+ * [Troubleshooting Cluster problems](https://github.com/Azure/aks-periscope)
 
 
 
