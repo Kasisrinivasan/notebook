@@ -5,3 +5,4 @@
 ### Grafana for AKS
 
 * https://github.com/PlagueHO/Workshop-AKS/blob/master/README.md
+* https://grafana.com/grafana/dashboards/10956
