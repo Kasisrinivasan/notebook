@@ -18,6 +18,15 @@ az aks install-cli
     --nodepool-name akspool  
 ```
 
+#### configuring kubectl tool to manage the cluster.
+```console
+az aks get-credentials --resource-group $name-rgp --name $name
+```
+Validate the cluster
+```console
+kubectl cluster-info
+```
+
 ----
 
 #### Viewing the VM SKU's
@@ -59,7 +68,7 @@ kubectl -n kube-system get services
 ```
 Opening the dashboard
 ```console
-az aks browse -n aks-cf-demo-eus  -g  rg-aks-demo
+az aks browse -n aks-demo  -g  rg-aks-demo
 ```
 
 ## Other References
