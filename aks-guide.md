@@ -40,7 +40,7 @@
 * [Definitive guide to Securing Kubernetes - Microsoft, Aqua](https://clouddamcdnprodep.azureedge.net/gdc/gdc8LXmoZ/original)
 
 -------
- ### How to's
+ ### How to's ###
  * [Expose External IP Address](https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/)
  * [Kubernetes Dashboard - AKS Engine](https://github.com/Azure/aks-engine/blob/master/docs/topics/monitoring.md#kubernetes-dashboard)
  * [AKS cluster concepts](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/aks/media/concepts-clusters-workloads)
@@ -48,6 +48,7 @@
  * [Configure Azure Policies for AKS](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/rego-for-aks?toc=/azure/aks/toc.json)
  * [Enabling Azure Monitoring for AKS](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-enable-existing-clusters#enable-using-an-azure-resource-manager-template) 
  * [Troubleshooting Cluster problems](https://github.com/Azure/aks-periscope)
+ * [Creating internal load balancer](https://docs.microsoft.com/en-us/azure/aks/internal-lb#create-an-internal-load-balancer)
 
 
 
