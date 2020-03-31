@@ -48,7 +48,8 @@
  * [Configure Azure Policies for AKS](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/rego-for-aks?toc=/azure/aks/toc.json)
  * [Enabling Azure Monitoring for AKS](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-enable-existing-clusters#enable-using-an-azure-resource-manager-template) 
  * [Troubleshooting Cluster problems](https://github.com/Azure/aks-periscope)
- * [Creating internal load balancer](https://docs.microsoft.com/en-us/azure/aks/internal-lb#create-an-internal-load-balancer)
+ * [Creating internal load balancer with AKS](https://docs.microsoft.com/en-us/azure/aks/internal-lb#create-an-internal-load-balancer)
+ * [Integrating ACR and AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-container-registry-integration)
 
 
 
