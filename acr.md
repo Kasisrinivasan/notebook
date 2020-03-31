@@ -24,7 +24,7 @@ az acr credential show --name $ACR_NAME
 az acr list --resource-group myResourceGroup --query "[].{acrLoginServer:loginServer}" --output table
 ```
 
-#### Associate AKS with the cluster
+#### Associate AKS with ACR
 ```
 az aks update -n myAKSCluster -g myResourceGroup --attach-acr <acrName>
 ```
