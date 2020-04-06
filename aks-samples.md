@@ -6,3 +6,5 @@
 * [Azure Blackbelt-aks-hackfest](https://github.com/Azure/blackbelt-aks-hackfest)
 
 * [Azure Security & Governance Workshop](https://github.com/Azure/sg-aks-workshop)
+
+* [Bike Saring App demonstrating Azure Dev Spaces](https://github.com/Azure/dev-spaces/tree/master/samples/BikeSharingApp)
