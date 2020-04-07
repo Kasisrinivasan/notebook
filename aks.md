@@ -71,5 +71,10 @@ Opening the dashboard
 az aks browse -n aks-demo  -g  rg-aks-demo
 ```
 
+#### Interacting with the Pod/Container 
+```
+kubectl exec podname  -n namespacename  -i -t   -- bash -il
+```
+
 ## Other References
 [https://github.com/Azure/aks-engine/tree/master/docs/topics](AKS Engine Topics)
