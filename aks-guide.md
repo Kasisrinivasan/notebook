@@ -50,6 +50,7 @@
  * [Troubleshooting Cluster problems](https://github.com/Azure/aks-periscope)
  * [Creating internal load balancer with AKS](https://docs.microsoft.com/en-us/azure/aks/internal-lb#create-an-internal-load-balancer)
  * [Integrating ACR and AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-container-registry-integration)
+ * [Mounting Azure File share](https://docs.docker.com/ee/ucp/kubernetes/storage/use-azure-files/#mount-the-azure-files-share-into-a-kubernetes-pod)
 
 
 
