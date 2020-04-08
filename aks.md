@@ -49,6 +49,13 @@ kubectl cluster-info
 ```
 kubectl get svc  -n fend    ingress-nginx-ingress-controller -o jsonpath="{.status.loadBalancer.ingress[*].ip}"
 ```
+
+### Querying the Deployments, services, pod 
+
+```
+kubectl get deploy,rs,po,svc,ingress -n namespacename
+```
+
 ----
 #### Create a Service object that exposes the deployment
 ```
