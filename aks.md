@@ -76,5 +76,10 @@ az aks browse -n aks-demo  -g  rg-aks-demo
 kubectl exec podname  -n namespacename  -i -t   -- bash -il
 ```
 
+#### Mounting Azure File share
+```
+sudo mount -t cifs -o dir_mode=0777,file_mode=0777,uid=1000,gid=1000,username=XXXXX,password=XXXXXX=,vers=3.0 //westeuropeqamutu.file.core.windows.net/agrial-magento-media /var/lib/kubelet/pods/7628a8e8-e348-11e8-9daa-4603d9f6b58b/volumes/kubernetes.io~azure-file/agrial-magento-media
+```
+
 ## Other References
 [https://github.com/Azure/aks-engine/tree/master/docs/topics](AKS Engine Topics)
