@@ -4,6 +4,8 @@
   * [Azure Core Commands](azure-core.md)
   * [Azure Monitor Guide](azure-monitor-guide.md)
   * [KQL](kql.md)
+  * [Tag](tag.md)
+  
   
   * [AKS Guides &  Best Practices](aks-guide.md)
   * [AKS Samples](aks-samples.md)
@@ -16,7 +18,7 @@
   * [Data Solutions](data-solutions-guide.md)
   * [ML Guide](ML-guide.md)
   
-  * [Visual Studio Extensions](vs-code-extensions.md)
+  * [VisualStudio Code Extensions](vs-code-extensions.md)
   
   * [Azure Certification](azure-cert.md)
 
