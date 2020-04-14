@@ -8,3 +8,5 @@
 * [Azure Security & Governance Workshop](https://github.com/Azure/sg-aks-workshop)
 
 * [Bike Saring App demonstrating Azure Dev Spaces](https://github.com/Azure/dev-spaces/tree/master/samples/BikeSharingApp)
+
+* [Cloud Native in a day](https://github.com/microsoft/Cloud-Native-In-a-Day)
