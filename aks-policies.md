@@ -12,12 +12,19 @@ az aks update \
     --enable-pod-security-policy
 ```
 
-#### Viewing AKS policies
+#### Viewing AKS Pod Security policies
 To view the policies available
 
 ```
 kubectl get psp
 ```
+
+### Installing & Uninstalling OPA Gatekeeper
+
+kubectl apply -f https://raw.githubusercontent.com/open-policy-agent/gatekeeper/master/deploy/gatekeeper.yaml
+
+kubectl delete -f https://raw.githubusercontent.com/open-policy-agent/gatekeeper/master/deploy/gatekeeper.yaml
+
 
 ### K8 working with Constraints 
 ```
