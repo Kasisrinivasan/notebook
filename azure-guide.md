@@ -4,3 +4,4 @@
 
 
 * [Secure DevOps Kit for Azure](https://azsk.azurewebsites.net/index.html)
+* [Azure Security Practices](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
