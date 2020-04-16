@@ -1,3 +1,11 @@
+### Create Service Principal
+
+```
+az ad sp create-for-rbac --name <service principal name>
+
+az ad sp create-for-rbac --skip-assignment --name <service principal name>
+```
+
 ### Create Service Principal Subscription level scope
 
 ```
