@@ -53,4 +53,9 @@
  * [Mounting Azure File share](https://docs.docker.com/ee/ucp/kubernetes/storage/use-azure-files/#mount-the-azure-files-share-into-a-kubernetes-pod)
 
 
+-------
+### Commands CheatSheet
+* [Kubernetes.io Command CheatSheet](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#patch)
+
+
 
