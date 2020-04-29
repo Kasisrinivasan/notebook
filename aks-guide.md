@@ -28,6 +28,7 @@
 * [AKS Integration with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/azure-kubernetes-service-integration)
 * [AKS and ACR Threat Detection in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-alerts-compute)
 * [Container Security Alerts in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference#alerts-containerhost)
+* [AKS Attack Matrix](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/?_lrsc=f37f5bd3-35b5-416b-aee7-0a5893da5cea)
 
 -------
 * [Promotheus Configuration](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-prometheus-integration)
