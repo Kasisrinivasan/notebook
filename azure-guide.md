@@ -6,3 +6,5 @@
 * [Secure DevOps Kit for Azure](https://azsk.azurewebsites.net/index.html)
 * [Azure Security Practices](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
 * [Azure Compliance](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
+* [Microsoft Cloudworkshop](https://microsoftcloudworkshop.com/)
+
