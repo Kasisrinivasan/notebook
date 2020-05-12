@@ -18,11 +18,15 @@
   * [Data Solutions](data-solutions-guide.md)
   * [ML Guide](ML-guide.md)
   * [Knowledge Mining Solutions - Search Power Skills]( https://github.com/Azure-Samples/azure-search-power-skills)
- * [Knowledge Mining Solutions - Azure Search Knowledge]( https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops)
+  * [Knowledge Mining Solutions - Azure Search Knowledge]( https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops)
 
  ----------------
   
   * [VisualStudio Code Extensions](vs-code-extensions.md)
   
   * [Azure Certification](azure-cert.md)
+  
+ ----------------
+ 
+   * [Network Automation](https://www.youtube.com/watch?v=fFHL2o033Zc)
 
