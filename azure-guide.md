@@ -5,6 +5,7 @@
 
 * [Secure DevOps Kit for Azure](https://azsk.azurewebsites.net/index.html)
 * [Azure Security Practices](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
+* [Azure Compliance - Evaluation Triggers](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/get-compliance-data#evaluation-triggers) 
 * [Azure Compliance](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 * [Azure Security Benchmarks & Baseline](https://docs.microsoft.com/en-us/azure/security/benchmarks/)
 * [Microsoft Cloudworkshop](https://microsoftcloudworkshop.com/)
