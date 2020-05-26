@@ -5,6 +5,7 @@
   * [Azure Monitor Guide](azure-monitor-guide.md)
   * [KQL](kql.md)
   * [Tag](tag.md)
+  * [ARM templates](arm-template-links.md)
  -----------------  
   * [AKS Guides &  Best Practices](aks-guide.md)
   * [AKS Samples](aks-samples.md)
