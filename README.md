@@ -19,7 +19,9 @@
   * [ML Guide](ML-guide.md)
   * [Knowledge Mining Solutions - Search Power Skills]( https://github.com/Azure-Samples/azure-search-power-skills)
   * [Knowledge Mining Solutions - Azure Search Knowledge]( https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops)
-
+ ----------------
+   * [Security Graph Guid](microsoft-graph.md)
+ 
  ----------------
   
   * [VisualStudio Code Extensions](vs-code-extensions.md)
