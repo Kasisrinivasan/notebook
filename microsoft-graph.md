@@ -16,6 +16,7 @@
 ### Videos ###
 * [Getting Started](https://www.youtube.com/watch?v=oYXPGwH9Ho0&feature=youtu.be)
 * [Authenticate and connect with Microsoft Graph](https://www.youtube.com/watch?v=xWhyG-SuyQM)
+* [Microsoft Defender ATP - Architecture](https://www.youtube.com/watch?v=rLOzurQX_Os&feature=youtu.be)
 * [Microsoft Defender Threat Protection ATP - Threat Analytics](https://www.youtube.com/watch?v=iXvaiaQoz_U&feature=youtu.be)
 -------------------------------------------------
 ### Development ###
