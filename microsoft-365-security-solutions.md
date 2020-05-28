@@ -8,6 +8,7 @@
 * [Microsoft Security Solution Developer Guidance](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2SptH)
 * [Microsoft Defender ATP](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/apis-intro)
 * [Microsoft Defender ATP API updates](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-api-updates/ba-p/473462)
+* [Microsoft Defender ATP API Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-api-explorer-and-connected-applications/ba-p/860562)
 
 
 ------------------------------------------------
