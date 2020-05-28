@@ -19,6 +19,11 @@
 * [Microsoft Defender ATP - Architecture](https://www.youtube.com/watch?v=rLOzurQX_Os&feature=youtu.be)
 * [Microsoft Defender Threat Protection ATP - Threat Analytics](https://www.youtube.com/watch?v=iXvaiaQoz_U&feature=youtu.be)
 -------------------------------------------------
+### Samples ###
+* [Webhooks Rest Sample](https://github.com/microsoftgraph/nodejs-webhooks-rest-sample)
+* [Graph API Training](https://github.com/microsoftgraph/msgraph-training-restapi)
+
+-------------------------------------------------
 ### Development ###
 * [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 * [Microsoft Defender Security Center](https://securitycenter.windows.com/interoperability/api-explorer?path=alerts%3F$top%3D10&autoStart=0&method=GET&body=)
