@@ -21,11 +21,14 @@
 -------------------------------------------------
 ### Samples ###
 * [Webhooks Rest Sample](https://github.com/microsoftgraph/nodejs-webhooks-rest-sample)
+* [Graph API Node JS Sample](https://github.com/microsoftgraph/nodejs-security-sample)
 * [Graph API Training](https://github.com/microsoftgraph/msgraph-training-restapi)
+* [Graph API Demo with UI .Net Sample](https://github.com/microsoftgraph/aspnet-security-api-sample/tree/master/V3.0)
 
 -------------------------------------------------
 ### Development ###
 * [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
-* [Microsoft Defender Security Center](https://securitycenter.windows.com/interoperability/api-explorer?path=alerts%3F$top%3D10&autoStart=0&method=GET&body=)
+* [Microsoft Defender Security Center Portal Home](https://securitycenter.windows.com/)
+* [Microsoft Defender Security Cente - API Explorer ](https://securitycenter.windows.com/interoperability/api-explorer?path=alerts%3F$top%3D10&autoStart=0&method=GET&body=)
 
 
