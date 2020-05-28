@@ -11,9 +11,10 @@
   * [AKS Samples](aks-samples.md)
   * [AKS Commands](aks.md)
   * [Azure Container Registry](acr.md)
-  * [Helm](helm.md)
   * [AKS Monitoring](aks-monitoring.md)
   * [AKS Policies](aks-policies.md)
+  * [Helm](helm.md)
+  * [Istio Guide](istio-guide.md)
  -----------------
   * [Data Solutions](data-solutions-guide.md)
   * [ML Guide](ML-guide.md)
@@ -21,6 +22,8 @@
   * [Knowledge Mining Solutions - Azure Search Knowledge]( https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops)
  ----------------
    * [Microsoft Security Solutions Guide](microsoft-365-security-solutions.md)
+  ----------------
+   * [IOT Solution Examples](iot-solution-examples.md)
   ----------------
    * [VisualStudio Code Extensions](vs-code-extensions.md)
   
