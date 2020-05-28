@@ -20,7 +20,7 @@
   * [Knowledge Mining Solutions - Search Power Skills]( https://github.com/Azure-Samples/azure-search-power-skills)
   * [Knowledge Mining Solutions - Azure Search Knowledge]( https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops)
  ----------------
-   * [Security Graph Guide](microsoft-graph.md)
+   * [Microsoft Security Solutions Guide](microsoft-365-security-solutions.md)
   ----------------
    * [VisualStudio Code Extensions](vs-code-extensions.md)
   
