@@ -10,6 +10,7 @@
 * [Microsoft Defender ATP API updates](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-api-updates/ba-p/473462)
 * [Microsoft Defender ATP API Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-api-explorer-and-connected-applications/ba-p/860562)
 * [Microsoft ATP Evaluation Lab](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088)
+ * [Microsoft Defender Advanced Threat protection with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-wdatp)
 
 
 ------------------------------------------------
