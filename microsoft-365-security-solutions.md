@@ -11,6 +11,8 @@
 * [Microsoft Defender ATP API Explorer](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-api-explorer-and-connected-applications/ba-p/860562)
 * [Microsoft ATP Evaluation Lab](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088)
  * [Microsoft Defender Advanced Threat protection with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-wdatp)
+  * [Connect to Intelligent Security Graph using API](https://www.microsoft.com/security/blog/2018/04/17/connect-to-the-intelligent-security-graph-using-a-new-api/)
+  * [Security Integration](https://docs.microsoft.com/en-us/graph/security-integration) - SIEM, SOAR, Automation, Reporting
 
 
 ------------------------------------------------
