@@ -9,4 +9,6 @@
 * [Azure Compliance](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 * [Azure Security Benchmarks & Baseline](https://docs.microsoft.com/en-us/azure/security/benchmarks/)
 * [Microsoft Cloudworkshop](https://microsoftcloudworkshop.com/)
+* [Azure Security Alerts & Intent Kill Chain](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference#alerts-windows)
+* [Azure Security Center Data Flow](https://techcommunity.microsoft.com/t5/azure-security-center/azure-security-center-data-flow/ba-p/1382800)
 
