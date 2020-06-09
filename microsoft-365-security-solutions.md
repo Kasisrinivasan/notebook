@@ -13,6 +13,7 @@
  * [Microsoft Defender Advanced Threat protection with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-wdatp)
   * [Connect to Intelligent Security Graph using API](https://www.microsoft.com/security/blog/2018/04/17/connect-to-the-intelligent-security-graph-using-a-new-api/)
   * [Security Integration](https://docs.microsoft.com/en-us/graph/security-integration) - SIEM, SOAR, Automation, Reporting
+  * [Connectors Logic apps](https://docs.microsoft.com/en-us/connectors/connector-reference/connector-reference-logicapps-connectors)
 
 
 ------------------------------------------------
