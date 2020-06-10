@@ -2,6 +2,7 @@
 
 
   * [Azure Core Commands](azure-core.md)
+  * [Azure Guide](azure-guide.md)
   * [Azure Monitor Guide](azure-monitor-guide.md)
   * [KQL](kql.md)
   * [Tag](tag.md)
