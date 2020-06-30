@@ -13,3 +13,6 @@
 * [Azure Security Center Data Flow](https://techcommunity.microsoft.com/t5/azure-security-center/azure-security-center-data-flow/ba-p/1382800)
 * [MITRE Attack](https://attack.mitre.org/matrices/enterprise/)
 
+
+* [Azure Scaffolding Hub & Spoke Template](https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-scaffold-templates/ba-p/1455574)
+
