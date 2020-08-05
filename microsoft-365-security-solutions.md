@@ -36,3 +36,7 @@
 * [Microsoft Defender Security Cente - API Explorer ](https://securitycenter.windows.com/interoperability/api-explorer?path=alerts%3F$top%3D10&autoStart=0&method=GET&body=)
 
 
+* [Defender ATP Client Connectivity](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/configure-proxy-internet#verify-client-connectivity-to-microsoft-defender-atp-service-urls)
+* [Defender ATP attack simulations](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/attack-simulations)
+* [Onboard Servers](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
+* [Defender Onboarding Troubleshooting Instructions](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding)
